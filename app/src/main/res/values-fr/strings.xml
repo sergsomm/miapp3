@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">miapp3</string>
+    <string name="titulo_app">Bienvenue</string>
+    <string name="boton_app">Enter</string>
+</resources>
